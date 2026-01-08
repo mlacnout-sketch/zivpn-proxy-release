@@ -5,8 +5,8 @@ export LD_LIBRARY_PATH=$BIN
 LOG=$MODDIR/proxy.log
 
 # -- KONFIGURASI AKUN --
-SERVER_IP="202.10.48.173"
-PASS="asd63"
+SERVER_IP="ISI_IP_DISINI"
+PASS="ISI_PASSWORD_DISINI"
 OBFS='hu``hqb`c'
 # ----------------------
 
