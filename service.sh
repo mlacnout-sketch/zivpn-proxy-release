@@ -1,4 +1,7 @@
 #!/system/bin/sh
+# Credit by LeXX
+# ZIVPN Core Service Script
+
 MODDIR=${0%/*}
 BIN=$MODDIR/system/bin
 export LD_LIBRARY_PATH=$BIN
